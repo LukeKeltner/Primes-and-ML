@@ -4,6 +4,9 @@
 ## Breakdown of Process
 1. Creates the DataFrame
 
-   This is indented.
+   Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 2. Second
