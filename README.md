@@ -17,4 +17,4 @@ id | Number | "1000" | "100" | "10" | "1" | Prime
 6. Fits each model to y = alog(bx)+c (SciPy) 
 
 ## Example Output
-<img src="example.JPG" width="500px"/>
+<img src="example.JPG" width="1000px"/>
