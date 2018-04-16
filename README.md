@@ -21,5 +21,5 @@ id | Number | "1000" | "100" | "10" | "1" | Prime
 
 ## Notes
 * The total score accuracy gets around 84-85% from out-of-the-box Scikit-learn Random Forest Classifier.
-* With very little training data, the model learns that even numbers are never prime.
+* With very little training data, the model learns that even numbers (except 2 of course) are never prime.
 * The same holds true for any given multiple.  This statement begins to breakdown as the mutiple gets closer to the max number you use to train the data with.  
